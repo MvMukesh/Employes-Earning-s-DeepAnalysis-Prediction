@@ -14,19 +14,20 @@
 3. Can understand what factor are affecting their salaries so they can improve working on particular factors
 4. Can get data about salaries paid by other companies for same job title, experience,education qualification, etc it can help them to plan well eventually to get a raise in their salaries
 
-> Dataset Desciption
 Dataset folder contains following files:
-|--------|-------|
-File | Data Shape
+|File | Data Shape|
+|-----|-----------|
 train_dataset.csv | 1000000 x 8
 train_salaries.csv | 1000000 x 2
 test_dataset.csv | 1000000 x 8
 
-Columns Provided in the Dataset
+Columns Provided in Dataset:
 1. jobId
 2. companyId
 3. jobType
-3. degree
-3. major
-3. industry
-3. yearsExperience
+4. degree
+5. major
+6. industry
+7. yearsExperience
+8. milesFromMetropolis
+9. salary
