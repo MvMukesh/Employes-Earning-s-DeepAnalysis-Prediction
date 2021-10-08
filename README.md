@@ -1,6 +1,6 @@
 # Problem Statement
 **To predict salary of employee based on information provided in dataset**
-> AIM: What important conclusion a company and an employee can take out of Analysis and Predicting Salary of employees
+> AIM: What important conclusion a company and an employee can take out of an Analysis done on employees Salary and at end by Predicting Employees Salary.
 
 >How will company profit from this solution?
 1. Somtime it become hard for any companie to keep track of their finances while paying salarie to employees, solving this problem can help them a ton
