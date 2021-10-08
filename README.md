@@ -23,12 +23,14 @@ train_salaries.csv | 1000000 x 2
 test_dataset.csv | 1000000 x 8
 
 `Columns Provided in Dataset`:
-1. jobId
-2. companyId
-3. jobType
-4. degree
-5. major
-6. industry
-7. yearsExperience
-8. milesFromMetropolis
-9. salary
+|column name|
+|----------|
+| jobId|
+|companyId|
+|jobType|
+|degree|
+|major|
+|industry|
+|yearsExperience|
+|milesFromMetropolis|
+|salary|
