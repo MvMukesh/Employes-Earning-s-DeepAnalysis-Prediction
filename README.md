@@ -34,3 +34,5 @@ test_dataset.csv | 1000000 x 8
 |yearsExperience|
 |milesFromMetropolis|
 |salary|
+
+## [Kaggle Solution](https://www.kaggle.com/mukeshmanral/salary-prediction/edit/run/76600134)
