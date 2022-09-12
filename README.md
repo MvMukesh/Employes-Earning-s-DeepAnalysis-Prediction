@@ -19,14 +19,12 @@
 `Dataset folder contains following files`:
 |File | Data Shape|
 |-----|-----------|
-train_dataset.csv | 1000000 x 8
-train_salaries.csv | 1000000 x 2
-test_dataset.csv | 1000000 x 8
+batch2_jobID_00B80TR.csv | 1000000 x 8
+batch1_jobID_00A32TE.csv | 1000000 x 7
 
 `Columns Provided in Dataset`:
 |column name|
 |----------|
-| jobId|
 |companyId|
 |jobType|
 |degree|
