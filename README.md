@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/26667491/136552970-4cc1d1d6-8f07-4814-8107-5c8a310a220f.png)
-##### [Kaggle Solution Link](https://www.kaggle.com/mukeshmanral/salary-prediction/edit/run/76600134)
+##### [Kaggle Solution Link](https://www.kaggle.com/code/mukeshmanral/salary-prediction/notebook)
 # `Problem Statement`
 **To predict salary of employee based on information provided in dataset**
 > `AIM`: What important conclusion a company and an employee can take out of an Analysis done on employees Salary and at end by Predicting Employees Salary.
@@ -36,4 +36,4 @@ test_dataset.csv | 1000000 x 8
 |milesFromMetropolis|
 |salary|
 
-## [Kaggle Solution Link](https://www.kaggle.com/mukeshmanral/salary-prediction/edit/run/76600134)
+## [Solution Link](https://www.kaggle.com/code/mukeshmanral/salary-prediction/notebook)
